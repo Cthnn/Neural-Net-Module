@@ -1,11 +1,10 @@
 # Neural-Net-Module
-A module to teach students about neural nets.
-
+A module to teach students about neural nets. We have split this workshop into 4 parts.
 This is a training module for students without experience with Neural Networks. The goal is to teach students at any level and guide them through the process of a machine learning problem. This module will focus on the basic vocabulary of building a Neural Network and transferring the basic theory to Python libraries. The machine learning task is the MNIST Handwritten Digit Classification.
 ![MNIST Dataset](https://camo.githubusercontent.com/01c057a753e92a9bc70b8c45d62b295431851c09cffadf53106fc0aea7e2843f/687474703a2f2f692e7974696d672e636f6d2f76692f3051493378675875422d512f687164656661756c742e6a7067)
 ## Part 1: Machine Learning Theory
 
-This will be a quick high-level lecture.
+A basic primer on machine learning terminology. The goal of this portion is to define vocabulary that people will encounter when dealing with machine learning and deep learning.
 
 ## Part 2: Feedforward Neural Networks
 
