@@ -1,6 +1,8 @@
 # Neural-Net-Module
 A module to teach students about neural nets.
 
+This is a training module for students without experience with Neural Networks. The goal is to teach students at any level and guide them through the process of a machine learning problem. 
+
 ## Part 1: Machine Learning Theory
 
 This will be a quick high-level lecture.
