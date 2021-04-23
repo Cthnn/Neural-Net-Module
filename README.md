@@ -33,3 +33,6 @@ Google Colab provides a preconfigured environment and free access to a GPU.
 * Unzip the folder
 * Move the folder to Google Drive
 * Double click on the notebook and open with Google Colab
+
+Further tutorials on deep learning and PyTorch:
+https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#sphx-glr-beginner-blitz-cifar10-tutorial-py
